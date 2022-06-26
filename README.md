@@ -1,2 +1,2 @@
 # algoriteam
-https://alfiibai.github.io/algoriteam/
+https://alfiibai.github.io/algoriteam.github.io/
